@@ -2,7 +2,9 @@
 
 ## PROJECTS
 1.  Project 1 Анализ резюме с HeadHunter
-Данные для проекта необходимо загрузить по ссылке: https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sharing
+
+Данные для проекта необходимо загрузить по ссылке: 
+https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sharing
 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
