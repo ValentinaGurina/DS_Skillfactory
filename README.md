@@ -2,12 +2,26 @@
 
 ## PROJECTS
 1.  Project 1 Анализ резюме с HeadHunter
-
 Данные для проекта необходимо загрузить по ссылке: https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sharing
-## PROJECTS
-1.  PYTHON-8.  Инструменты для Data Science
-[P8_project](https://github.com/ValentinaGurina/DS_Skillfactory/tree/main/P8_project)
-git reset HEAD~
-## PROJECTS
-1.  PYTHON-8.  Инструменты для Data Science
-[P8_project](https://github.com/ValentinaGurina/DS_Skillfactory/tree/main/P8_project)
+
+Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
+
+Проект состоит из четырёх частей:
+    1 базовый анализ структуры данных
+    2 преобразование данных
+    3 разведывательный анализ
+    4 очистка данных
+
+2. PYTHON-8.  Project Game Predict
+
+## WORKING STUDY MATERIALS
+
+1. PYTHON-10. Введение в Pandas
+
+2. PYTHON-11. Базовые приёмы работы с данными в Pandas
+
+3. PYTHON-12. Продвинутые методы работы с данными в Pandas
+
+4. PYTHON-13. Визуализация данных
+
+5. PYTHON-14. Очистка данных
