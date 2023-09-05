@@ -1,7 +1,8 @@
 # DATA SCIENCE STUDY COURSE BY SKILLFACTORY
 
 ## PROJECTS
-1.  Project 1 Анализ резюме с HeadHunter
+1.  Project 1.
+         Анализ резюме с HeadHunter
 
 Данные для проекта необходимо загрузить по ссылке: 
 https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sharing
@@ -14,7 +15,21 @@ https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sha
     3 разведывательный анализ
     4 очистка данных
 
-2. PYTHON-8.  Project Game Predict
+
+2.  Project 2.
+        Анализ вакансий из HeadHunter
+
+Анализ данных базы данных HeadHunter с использованием функционала sql
+
+Проект включает в себя несколько этапов:
+        1 знакомство с данными
+        2 предварительный анализ данных
+        3 детальный анализ вакансий
+        4 анализ работодателей
+        5 предметный анализ
+ 
+
+3. PYTHON-8.  Project Game Predict
 
 ## WORKING STUDY MATERIALS
 
