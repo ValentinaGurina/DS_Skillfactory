@@ -42,3 +42,7 @@ https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sha
 4. PYTHON-13. Визуализация данных
 
 5. PYTHON-14. Очистка данных
+
+6. PYTHON-16. Как выгружать данные из файлов разных форматов
+
+7. PYTHON-17. Как получать данные из веб-источников и API
