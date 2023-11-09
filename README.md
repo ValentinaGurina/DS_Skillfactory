@@ -27,22 +27,21 @@ https://drive.google.com/drive/folders/1ZQy9G3RlMNFxmAZwsWkVdELVxTfyCW8i?usp=sha
         3 детальный анализ вакансий
         4 анализ работодателей
         5 предметный анализ
+
+
+2.  Project 3.
+        [SF-DST] Booking reviews
+
+Cоревнование на платформе Kaggle. Ник на Kaggle Valentina_Gurina
+
+Проект включает в себя несколько этапов:
+        1 первичный анализ данных
+        2 исследование данных и генерацию признаков
+        3 отбор признаков
+        4 моделирование
+
+Оценка качества модели снижение MAPE   
  
 
 3. PYTHON-8.  Project Game Predict
 
-## WORKING STUDY MATERIALS
-
-1. PYTHON-10. Введение в Pandas
-
-2. PYTHON-11. Базовые приёмы работы с данными в Pandas
-
-3. PYTHON-12. Продвинутые методы работы с данными в Pandas
-
-4. PYTHON-13. Визуализация данных
-
-5. PYTHON-14. Очистка данных
-
-6. PYTHON-16. Как выгружать данные из файлов разных форматов
-
-7. PYTHON-17. Как получать данные из веб-источников и API
