@@ -43,5 +43,3 @@ Cоревнование на платформе Kaggle. Ник на Kaggle Valen
 Оценка качества модели снижение MAPE   
  
 
-3. PYTHON-8.  Project Game Predict
-
