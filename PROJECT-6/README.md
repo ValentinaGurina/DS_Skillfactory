@@ -1,6 +1,7 @@
 # Сегментация клиентов онлайн-магазина подарков
 
 1. Знакомство с данными
+ссылка на данные: https://lms-cdn.skillfactory.ru/assets/courseware/v1/468638e49cb9e7d4b4dfdc296c1c778e/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/pj6_data.zip
 
 ### Признаки, описывающие каждую транзакцию:
 
