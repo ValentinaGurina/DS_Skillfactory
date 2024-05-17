@@ -1,0 +1,12 @@
+*проекты, созданные в рамках обучения DataScience от SkillFactory
+
+1. Проект: Анализ резюме из HeadHunter (часть 1)
+
+2. Проект: Анализ резюме из HeadHunter (часть 2)
+
+3. Проект: Booking
+
+Ник на Kaggle: Valentina_Gurina
+Ссылка на страницу: https://www.kaggle.com/valentinagurina
+
+4. Проект: Сегментация клиентов онлайн магазина подарков
